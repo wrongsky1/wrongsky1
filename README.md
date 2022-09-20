@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Misha
 
-![](https://komarev.com/ghpvc/?username=wrongsky1)
-
 ## I'm a FrontEnd Developer
 
 -   👨🏻‍💻 I like to write code
@@ -11,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="telegram | Misha" width="22px" src="hhttps://cdn-icons-png.flaticon.com/512/2111/2111646.png" />][telegram]
+[<img align="left" alt="telegram | Misha" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />][telegram]
 [<img align="left" alt="email | Misha" width="22px" src="https://cdn-icons-png.flaticon.com/512/726/726623.png" />][email]
 [<img align="left" alt="linkedin | Misha" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />][linkedin]
 
@@ -28,9 +26,12 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
 <br />
+<br />
 
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wrongsky1&langs_count=8&layout=compact)
 
+![](https://komarev.com/ghpvc/?username=wrongsky1)
+
 [telegram]: https://t.me/Razmd
-[email]: i@razlivakhin.ru
+[email]: mailto:i@razlivakhin.ru
 [linkedin]: https://www.linkedin.com
