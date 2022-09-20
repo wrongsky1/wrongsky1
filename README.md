@@ -33,5 +33,5 @@
 ![](https://komarev.com/ghpvc/?username=wrongsky1)
 
 [telegram]: https://t.me/Razmd
-[email]: mailto:i@razlivakhin.ru
+[email]: mailto:razlivakhin.m@gmail.com
 [linkedin]: https://www.linkedin.com
